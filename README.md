@@ -9,7 +9,7 @@ This is a simple and clean *personal portfolio website* created using *HTML and 
 *MODE: ONLINE
 
 
- 📌 Project Overview:
+ ## Project Overview:
 
 The portfolio includes the following sections:
 
