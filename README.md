@@ -53,6 +53,6 @@ To implement the concepts of HTML structure and CSS styling by building a person
 - Add JavaScript for interactivity (e.g., navigation menu)
 
 
-  #OUTPUT:
-  https://codepen.io/Shaik-Karishma-the-solid/pen/EajbvKR
+  ##OUTPUT LIVE DEMO:
+  🔗https://codepen.io/Shaik-Karishma-the-solid/pen/EajbvKR
 
